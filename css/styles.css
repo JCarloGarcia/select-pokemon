@@ -1,1 +1,38 @@
 
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #c0b9b9;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+  }
+  
+  .pokemon-form {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .pokemon-info {
+    text-align: center;
+  }
+  
+  .pokemon-info img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .pokemon-info h2 {
+    margin-top: 0;
+  }
+  
+  .pokemon-info p {
+    margin: 5px 0;
+  }
+  
